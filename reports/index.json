@@ -1,0 +1,30 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260504-200414-a9p2",
+      "title": "Mèsmér",
+      "commanders": [
+        "Mèsmér"
+      ],
+      "dateStart": "2026-05-04T18:04:14.000Z",
+      "dateEnd": "2026-05-04T19:27:50.000Z",
+      "dateLabel": "04/05/2026, 20:04:14 - 04/05/2026, 21:27:50",
+      "url": "https://08olaf08-netizen.github.io/empathy/?report=20260504-200414-a9p2",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 26,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 44
+      }
+    }
+  ]
+}
