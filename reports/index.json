@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260505-180237-it3t",
+      "title": "Luxxor",
+      "commanders": [
+        "Luxxor"
+      ],
+      "dateStart": "2026-05-05T16:02:37.000Z",
+      "dateEnd": "2026-05-05T17:20:22.000Z",
+      "dateLabel": "05/05/2026, 18:02:37 - 05/05/2026, 19:20:22",
+      "url": "https://08olaf08-netizen.github.io/empathy/?report=20260505-180237-it3t",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260505-180237-p3ac",
       "title": "Luxxor",
       "commanders": [
