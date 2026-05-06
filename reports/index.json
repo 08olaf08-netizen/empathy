@@ -4,6 +4,36 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260505-185000-0cjf",
+      "title": "Ä U R Ï E L, Empathy Warrior, Luxxor",
+      "commanders": [
+        "Ä U R Ï E L",
+        "Empathy Warrior",
+        "Luxxor"
+      ],
+      "dateStart": "2026-05-05T16:50:00.000Z",
+      "dateEnd": "2026-05-06T17:39:42.000Z",
+      "dateLabel": "05/05/2026, 18:50:00 - 06/05/2026, 19:39:42",
+      "url": "https://08olaf08-netizen.github.io/empathy/?report=20260505-185000-0cjf",
+      "summary": {
+        "borderlandsPct": 0.125,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260505-180237-it3t",
       "title": "Luxxor",
       "commanders": [
