@@ -4,6 +4,23 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260505-180237-p3ac",
+      "title": "Luxxor",
+      "commanders": [
+        "Luxxor"
+      ],
+      "dateStart": "2026-05-05T16:02:37.000Z",
+      "dateEnd": "2026-05-05T17:20:22.000Z",
+      "dateLabel": "05/05/2026, 18:02:37 - 05/05/2026, 19:20:22",
+      "url": "https://08olaf08-netizen.github.io/empathy/?report=20260505-180237-p3ac",
+      "summary": {
+        "borderlandsPct": null,
+        "mapSlices": [],
+        "avgSquadSize": 0,
+        "avgEnemySize": 0
+      }
+    },
+    {
       "id": "20260504-200414-a9p2",
       "title": "Mèsmér",
       "commanders": [
